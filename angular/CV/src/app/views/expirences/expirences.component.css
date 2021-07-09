@@ -1,0 +1,35 @@
+.white-card {
+    height: 700px;
+    width: 500px;
+    background-color: #ececec;
+    color: black;
+    padding: 2.1rem;
+    border-radius: 20px;
+    font-family: 'Alfa Slab One', cursive;
+    box-shadow: 2px 2px 2px 2px #ececec;
+    align-items: center;
+    
+}
+.d-grid {
+    display: grid;
+    grid-template-columns: 15rem 15rem 15rem 15rem;
+    grid-gap: 30rem;
+    align-items: center;
+}
+.pt-exp {
+ padding-top: 5rem;
+}
+
+.text-center{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pt-utb {
+    padding-top: 1.5rem;
+}

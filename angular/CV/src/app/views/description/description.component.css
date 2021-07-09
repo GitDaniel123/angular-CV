@@ -1,0 +1,61 @@
+.desc-flex {
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.white-card {
+    height: 700px;
+    width: 500px;
+    background-color: #ececec;
+    color: black;
+    padding: 2.1rem;
+    border-radius: 20px;
+    font-family: 'Alfa Slab One', cursive;
+    box-shadow: 2px 2px 2px 2px #ececec;
+    
+}
+.bt {
+    border-bottom: 2px solid black;
+}
+
+.img-cv {
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+    
+}
+
+.pt-cv {
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    box-shadow:  rgba(209, 207, 207, 0.863);
+    
+}
+
+.pt-cv p {
+    font-size: 150px;
+    color: white;
+    
+}
+.desc-pad {
+    padding-bottom: 5rem;
+}
+
+.bg-grey {
+    display: flex;
+    justify-content: center;
+    background-color: #ada6a6;
+    height: 60px;
+
+}
+.bg-grey a {
+    text-decoration: none;
+    color: black;
+
+}
+.pt-copy {
+    padding-top: 1.3rem;
+    font-size: 1.2rem;
+}
